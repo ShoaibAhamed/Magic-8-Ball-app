@@ -1,0 +1,1 @@
+Magic 8 Ball is the fantastic game from 90's where you could ask your question to the ball and it would come up with an answer. Now you can play it in your iphone. I didn't realese it in the app store yet but if you have the development environment in your mac, you can download in your i phone and start playing! 
